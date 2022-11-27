@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v2.0": {},
+    ".NETFramework,Version=v2.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\BurAndBy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Programming\\C# Projects\\Scaleform\\ScaleformVideoEncoder.csproj",
+      "projectName": "ScaleformVideoEncoder",
+      "projectPath": "D:\\Programming\\C# Projects\\Scaleform\\ScaleformVideoEncoder.csproj",
+      "packagesPath": "C:\\Users\\BurAndBy\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\C# Projects\\Scaleform\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\BurAndBy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net20"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net20": {
+          "targetAlias": "net20",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net20": {
+        "targetAlias": "net20",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
